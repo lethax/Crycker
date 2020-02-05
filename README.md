@@ -1,4 +1,4 @@
-# CRYCKER
+# Crycker
 
 Hey, you people that are contantly checking Bitcoin and other crypto currency prices on mobile or PC during meetings. You think we don't see you? We do!
 
