@@ -13,21 +13,30 @@ with Windows. Right click to select source, currency and coin.
 
 <!-- ![Crycker](https://raw.githubusercontent.com/davidvidmar/Crycker/Cryker.png#floatright) -->
 
-Currently shows data from Bitstamp, Coinbase or Blockchain. Supports Bitcoin, Ethereum, Ripple, Lite Coin, with EUR and USD as currencies.
+Currently shows data from Bitstamp, Coinbase or Blockchain. Supports most currencies on the exchanges. If any are missing please email me at if you'd like support.
 
 ![Crycker Settings](https://vidmar.net/img/projects/crycker-menu.png)
 
-**Download**    - [Version 1.0.1](https://github.com/davidvidmar/Crycker/releases/latest)
+**Download**    - [Version v2.0.1](https://github.com/lethax/Crycker/releases/latest)
 
-**Home Page** - [Source Code](https://vidmar.net/Cryker/)
 
-Have an idea?  Found a bug? [Leave feedback](mailto:crycker@vidmar.net) or [submit an issue](https://github.com/davidvidmar/Crycker/issues)!
+Have an idea?  Found a bug? [Leave feedback](mailto:lethaxcrypto@gmail.com) or [submit an issue](https://github.com/lethax/Crycker/issues)!
 
 ---
 
 ## Change log: ##
 
-**v1.0.1** - 7th Oct 2017 
+**v2.0.1** - 4th Feb 2020
+
+*New Fork of the project*
+*added more coins for coinbase support*
+*added more coins for bitstamp support*
+*added more coins for binance support*
+*revamping links and revitalizing project*
+
+
+
+Pre-fork **v1.0.1** - 7th Oct 2017 
 
 * check for updates automatically, can be turned off in config file
 * support for generic currencies, that can be set in config file
@@ -39,10 +48,13 @@ Have an idea?  Found a bug? [Leave feedback](mailto:crycker@vidmar.net) or [subm
 
 If you like Crycker, please donate! 
 
-**ETH** to "0x16c99026fc3251fa03e0372c496403ec4ffbd80d" or use code:
+**BTC** to "3NeWC1D2EQTKxQvUowqWEt92ZgDaaY3h3V"
 
-![ETH donation address](https://vidmar.net/img/projects/donate-eth.png)
+**XTZ** to "tz1ijquQwSxhUEKNeQfYqNrEovfW887RUjiR"
 
-**BTC** to "35aF5bLUa28AYEW22tVsRYbgEkBdyc9wzf" or use QR code:
+**ETH** to "0xB2A0765773FA776F30d74C88E714E735f58c87e9"
 
-![BTC donation address](https://vidmar.net/img/projects/donate-btc.png)
+**BAT** to "0x942904C68818E734d5A09b2e26ad8e3AFB908926"
+
+**BCH** to "qq28gy49qwfhk4r3g9rh58ztpcn3k5mcnv9n2zdwj7"
+
