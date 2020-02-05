@@ -11,7 +11,7 @@ namespace Crycker.Data
         public CoinbaseTickerProvider()
         {
             supportedCurrencies = new string[] { "EUR", "USD" };
-            supportedCoins = new string[] { "BTC", "LTH", "ETH" };
+            supportedCoins = new string[] { "BTC", "LTC", "ETH", "XRP", "XTZ", "BAT", "BCH", "DASH", "EOS", "XLM", "ZEC", "ZRX", "LINK" };
         }
 
         public string Provider
