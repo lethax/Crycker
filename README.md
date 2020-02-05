@@ -8,12 +8,12 @@ Here is a gift for you!
 
 ![Crycker in Windows 10 Taskbar](https://vidmar.net/img/projects/crycker-taskbar.gif)
 
-Nothing to install, no dependancies. Just a single file you put in your tools folder and run when needed. Configure to automatically start 
+Nothing to install, no dependancies. Just a single file you put in any folder and run when needed. Configure to automatically start 
 with Windows. Right click to select source, currency and coin.
 
 <!-- ![Crycker](https://raw.githubusercontent.com/davidvidmar/Crycker/Cryker.png#floatright) -->
 
-Currently shows data from Bitstamp, Coinbase or Blockchain. Supports most currencies on the exchanges. If any are missing please email me at if you'd like support.
+Currently shows data from Bitstamp, Coinbase, or Blockchain. Supports most currencies on the exchanges. If any are missing please email me at [lethaxcrypto@gmail.com](mailto:lethaxcrypto@gmail.com) if you'd like support.
 
 ![Crycker Settings](https://vidmar.net/img/projects/crycker-menu.png)
 
