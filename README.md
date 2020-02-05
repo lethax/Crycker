@@ -28,11 +28,11 @@ Have an idea?  Found a bug? [Leave feedback](mailto:lethaxcrypto@gmail.com) or [
 
 **v2.0.1** - 4th Feb 2020
 
-*New Fork of the project*
-*added more coins for coinbase support*
-*added more coins for bitstamp support*
-*added more coins for binance support*
-*revamping links and revitalizing project*
+* New Fork of the project
+* added more coins for coinbase support
+* added more coins for bitstamp support
+* added more coins for binance support
+* revamping links and revitalizing project
 
 
 
