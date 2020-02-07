@@ -17,8 +17,8 @@ Currently shows data from Bitstamp, Coinbase, or Blockchain. Supports most curre
 
 ![Crycker Settings](https://vidmar.net/img/projects/crycker-menu.png)
 
-Dashboard Screenshot
-
+> New Dashboard is being developed.
+![New Dashboard](https://user-images.githubusercontent.com/16712360/74050303-6b77e700-499b-11ea-93d8-66944199bb7d.png)
 
 
 **Download**    - [Version v2.1.0](https://github.com/lethax/Crycker/releases/latest)
