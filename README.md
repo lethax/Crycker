@@ -17,7 +17,11 @@ Currently shows data from Bitstamp, Coinbase, or Blockchain. Supports most curre
 
 ![Crycker Settings](https://vidmar.net/img/projects/crycker-menu.png)
 
-**Download**    - [Version v2.0.1](https://github.com/lethax/Crycker/releases/latest)
+Dashboard Screenshot
+
+
+
+**Download**    - [Version v2.1.0](https://github.com/lethax/Crycker/releases/latest)
 
 
 Have an idea?  Found a bug? [Leave feedback](mailto:lethaxcrypto@gmail.com) or [submit an issue](https://github.com/lethax/Crycker/issues)!
@@ -25,6 +29,10 @@ Have an idea?  Found a bug? [Leave feedback](mailto:lethaxcrypto@gmail.com) or [
 ---
 
 ## Change log: ##
+
+**v2.1.0** - 7th Feb 2020
+
+* Added a coin dashboard. Intent is to make it similar crypto center hub that's lighter weight than the million browser tabs I keep open.
 
 **v2.0.1** - 4th Feb 2020
 
